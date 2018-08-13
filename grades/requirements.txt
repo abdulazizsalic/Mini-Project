@@ -1,0 +1,17 @@
+1. all grades are required
+2. must save all grades entered
+3. apply jquery in entering grades with convience
+4. after saving:
+	4.1 back to its original state:
+		enable all disabled fields
+		list will be gone
+		display message "Saved successfully"
+		
+allowable grades:
+	1.0-5.0
+	DR
+	NA
+	NG
+	W
+	
+if error found, dont save
